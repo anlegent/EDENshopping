@@ -16,5 +16,3 @@ article.appendChild(title);
 article.appendChild(image);
 article.appendChild(price);
 app.appendChild(article);
-
-image.addEventListener("click",)
